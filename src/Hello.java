@@ -7,7 +7,8 @@ public class Hello {
             System.out.println("And I am scared of aliens");
 
         boolean isCar=false;
-        System.out.println("Hello world");
+        System.out.println("Hello,Elena how are you");
+
         if(isCar != false)
         {
             System.out.println("This is not supposed");
